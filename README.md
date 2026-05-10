@@ -1,2 +1,2 @@
-# DLG-Editor-for-Disciples
-Interface editor for Disciples 1, 2 by Fessoid [RU/ENG/PL/CH]
+# DLG Editor for Disciples [RU/ENG/PL/CH]
+Interface editor for Disciples 1, 2 by Fessoid
