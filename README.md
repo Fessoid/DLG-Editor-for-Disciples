@@ -2,16 +2,18 @@
 **Редактор интерфейса для Disciples 1 and 2 by Fessoid**  
 **Interface editor for Disciples 1 and 2**
 
-**Installation & How to Use**
+  
+
+VIDEO 
 =
-VIDEO
-=
+  
+**Installation & How to Use**  
 
-
-════════════════════════════════════════════════════════════════════  
-  **🇷🇺 РУССКИЙ**
-════════════════════════════════════════════════════════════════════  
-
+  
+  
+<details>
+ <summary> РУССКИЙ </summary>
+ 
 ▸ ВАРИАНТ А — ЗАПУСК ГОТОВОГО EXE (без установки Python)
 
   Если у вас есть готовый файл DLG Editor for Disciples.exe, просто запустите его двойным
@@ -54,10 +56,9 @@ VIDEO
   6. Готовый DLG Editor for Disciples.exe будет в папке dist\.
      Папки build\ и файл DLG Editor for Disciples.spec можно удалить.
   
-  
-════════════════════════════════════════════════════════════════════════════════
-  **🇬🇧 ENGLISH**
-════════════════════════════════════════════════════════════════════════════════
+</details>  
+<details>  
+ <summary>ENGLISH</summary>
 
 ▸ OPTION A — RUNNING THE READY-MADE EXE (no Python needed)
 
@@ -100,10 +101,10 @@ VIDEO
   6. The resulting DLG Editor for Disciples.exe will be in the dist\ folder.
      The build\ folder and DLG Editor for Disciples.spec file can be deleted.
   
-  
-════════════════════════════════════════════════════════════════════════════════
-  **🇵🇱 POLSKI**
-════════════════════════════════════════════════════════════════════════════════
+</details>    
+<details>
+<summary>POLSKI</summary>
+
 
 ▸ OPCJA A — URUCHOMIENIE GOTOWEGO PLIKU EXE (bez instalacji Pythona)
 
@@ -151,10 +152,10 @@ VIDEO
 
   
 
-  
-════════════════════════════════════════════════════════════════════════════════
-  **🇨🇳 简体中文**
-════════════════════════════════════════════════════════════════════════════════
+</details>  
+<details>  
+<summary>简体中文</summary>
+
 
 ▸ 方案 A — 运行现成的 EXE 文件（无需安装 Python）
 
@@ -197,3 +198,19 @@ VIDEO
 
   6. 生成的 DLG Editor for Disciples.exe 将位于 dist\ 文件夹中。
      build\ 文件夹和 DLG Editor for Disciples.spec 文件可以删除。
+</details> 
+
+
+    
+**ScenEdit.dlg**
+<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/1bd996cf-e3ea-432c-be1e-e389a2b9a4fe" />
+
+**ScenEdit.dlg**
+<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/811848ae-734c-4ff9-acf7-c5d40acfb7e4" />
+
+**CustomLobby.dlg**
+<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/06a54d5b-6666-4280-8c92-e84be2470881" />
+
+**Interf.dlg**
+<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/32f3ee63-6acc-47b2-9036-d71ded644995" />
+
