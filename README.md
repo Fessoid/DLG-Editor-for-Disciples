@@ -1,10 +1,12 @@
 # Interface DLG Editor for Disciples [RU/ENG/PL/CN]
 **Редактор интерфейса для Disciples 1 and 2 by Fessoid**  
 **Interface editor for Disciples 1 and 2**
-
   
+  
+[![Скачать](https://img.shields.io/github/v/release/Fessoid/DLG-Editor-for-Disciples?color=orange)](https://github.com/Fessoid/DLG-Editor-for-Disciples/releases)
 
 VIDEO 
+[YouTube](https://youtu.be/MfSSoe-kNx4)/[Boosty](https://boosty.to/fessoid/posts/a86bc6a9-8427-40c7-8787-47226955f194?share=post_link&utm_source=github)
 =
   
 **Installation & How to Use**  
