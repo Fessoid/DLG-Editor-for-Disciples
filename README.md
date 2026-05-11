@@ -204,15 +204,21 @@ VIDEO
 
 
     
-**ScenEdit.dlg**
+**ScenEdit.dlg**  
 <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/1bd996cf-e3ea-432c-be1e-e389a2b9a4fe" />
 
-**ScenEdit.dlg**
+  
+**ScenEdit.dlg**  
 <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/811848ae-734c-4ff9-acf7-c5d40acfb7e4" />
 
-**CustomLobby.dlg**
+  
+**CustomLobby.dlg**  
 <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/06a54d5b-6666-4280-8c92-e84be2470881" />
 
-**Interf.dlg**
+  
+**Interf.dlg**  
 <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/32f3ee63-6acc-47b2-9036-d71ded644995" />
 
+  
+**О программе**
+<img width="395" height="427" alt="image" src="https://github.com/user-attachments/assets/ebb249ee-bc84-442b-8365-a8a4d60f4452" />
