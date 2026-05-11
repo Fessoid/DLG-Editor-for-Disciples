@@ -5,6 +5,10 @@
   
 [![Скачать](https://img.shields.io/github/v/release/Fessoid/DLG-Editor-for-Disciples?color=orange)](https://github.com/Fessoid/DLG-Editor-for-Disciples/releases)
 
+Разработал программу для самостоятельного изменения интерфейса игр Disciples (1 и 2 части).  
+Редактирует dlg-файлы интерфейса как для Оригинальной игры, так и любых модов.  
+Основная фишка - акцент на редактировании текстовых полей и размеров полей, окон и кнопок.
+
 VIDEO 
 [YouTube](https://youtu.be/MfSSoe-kNx4)/[Boosty](https://boosty.to/fessoid/posts/a86bc6a9-8427-40c7-8787-47226955f194?share=post_link&utm_source=github)
 =
