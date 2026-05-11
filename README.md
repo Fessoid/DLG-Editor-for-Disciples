@@ -1,17 +1,15 @@
-# DLG Editor for Disciples [RU/ENG/PL/CN]
-**Редактор интерфейса для Disciples 1 and 2 by Fessoid
-Interface editor for Disciples 1 and 2**
+# Interface DLG Editor for Disciples [RU/ENG/PL/CN]
+**Редактор интерфейса для Disciples 1 and 2 by Fessoid**  
+**Interface editor for Disciples 1 and 2**
 
-**Installation**
-**How to use**
-
-================================================================================
-  DLG Editor for Disciples — Installation & Launch Guide
-================================================================================
+**Installation & How to Use**
+=
+VIDEO
+=
 
 
 ════════════════════════════════════════════════════════════════════════════════
-  🇷🇺 РУССКИЙ
+  **🇷🇺 РУССКИЙ**
 ════════════════════════════════════════════════════════════════════════════════
 
 ▸ ВАРИАНТ А — ЗАПУСК ГОТОВОГО EXE (без установки Python)
@@ -55,10 +53,10 @@ Interface editor for Disciples 1 and 2**
 
   6. Готовый DLG Editor for Disciples.exe будет в папке dist\.
      Папки build\ и файл DLG Editor for Disciples.spec можно удалить.
-
-
+  
+  
 ════════════════════════════════════════════════════════════════════════════════
-  🇬🇧 ENGLISH
+  **🇬🇧 ENGLISH**
 ════════════════════════════════════════════════════════════════════════════════
 
 ▸ OPTION A — RUNNING THE READY-MADE EXE (no Python needed)
@@ -101,10 +99,10 @@ Interface editor for Disciples 1 and 2**
 
   6. The resulting DLG Editor for Disciples.exe will be in the dist\ folder.
      The build\ folder and DLG Editor for Disciples.spec file can be deleted.
-
-
+  
+  
 ════════════════════════════════════════════════════════════════════════════════
-  🇵🇱 POLSKI
+  **🇵🇱 POLSKI**
 ════════════════════════════════════════════════════════════════════════════════
 
 ▸ OPCJA A — URUCHOMIENIE GOTOWEGO PLIKU EXE (bez instalacji Pythona)
@@ -151,9 +149,11 @@ Interface editor for Disciples 1 and 2**
   6. Gotowy plik DLG Editor for Disciples.exe znajdziesz w folderze dist\.
      Foldery build\ oraz plik DLG Editor for Disciples.spec można usunąć.
 
+  
 
+  
 ════════════════════════════════════════════════════════════════════════════════
-  🇨🇳 简体中文
+  **🇨🇳 简体中文**
 ════════════════════════════════════════════════════════════════════════════════
 
 ▸ 方案 A — 运行现成的 EXE 文件（无需安装 Python）
